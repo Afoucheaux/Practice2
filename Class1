@@ -1,0 +1,15 @@
+class: dog
+
+Attibutes:
+earType (string)
+hasFir (boolean)
+color (array)
+hieghtAtShoulder (integer)
+
+methods:
+shave (hasFir set to false)
+feedExtra (add 1 to the hieghtAtShoulder)
+dieFur (add color to array)
+ChangeEars (update string)
+
+ 
