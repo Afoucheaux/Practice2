@@ -1,0 +1,13 @@
+AmieDog
+
+Attibutes:
+earType: "pointed"
+hasFir: True
+color: ["black", "brown", "white"]
+hieghtAtShoulder 26
+
+methods:
+shave hasFir = false
+feedExtra 27
+dieFur ["black", "brown", "white", "pink"]
+ChangeEars "Droopy"
