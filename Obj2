@@ -1,14 +1,14 @@
-Class: Door
+Class: myFrontDoor
 
 Attibutes:
-length (integer)
-width (integer)
-doorMaterial (array)
-locked (boolean)
-color (string)
+length 72
+width 36
+doorMaterial ["wood"]
+locked true
+color "Brown"
 
 methods:
-area (length * width = area)
-fix (add material to array)
-unlock (change locked to false)
-paint (update color string)
+area 2592
+fix ["wood", "metal"]
+unlock locked = false
+paint "grey"
