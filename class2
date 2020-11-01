@@ -1,0 +1,14 @@
+Class: Door
+
+Attibutes:
+length (integer)
+width (integer)
+doorMaterial (array)
+locked (boolean)
+color (string)
+
+methods:
+area (length * width = area)
+fix (add material to array)
+unlock (change locked to false)
+paint (update color string)
